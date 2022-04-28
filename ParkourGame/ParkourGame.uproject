@@ -2,5 +2,8 @@
 	"FileVersion": 3,
 	"EngineAssociation": "5.0EA",
 	"Category": "",
-	"Description": ""
+	"Description": "",
+	"AdditionalPluginDirectories": [
+		"../../../../Downloads/AdvancedSessions-50/AdvancedSessions/AdvancedSessions"
+	]
 }
