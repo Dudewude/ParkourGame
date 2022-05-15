@@ -1,0 +1,5 @@
+2022/05/15-11:43:34.720 4f04 Reusing MANIFEST C:/Users/morto/Documents/ParkourGame/ParkourGame/ParkourGame/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/05/15-11:44:07.233 2904 Level-0 table #5: started
+2022/05/15-11:44:07.234 2904 Level-0 table #5: 7090 bytes OK
+2022/05/15-11:44:07.235 2904 Delete type=0 #3
+2022/05/15-11:44:07.235 2904 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,17 @@
+2022/05/15-11:44:38.636 70b0 Reusing MANIFEST C:/Users/morto/Documents/ParkourGame/ParkourGame/ParkourGame/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/05/15-11:44:38.636 70b0 Recovering log #4
+2022/05/15-11:44:38.636 70b0 Reusing old log C:/Users/morto/Documents/ParkourGame/ParkourGame/ParkourGame/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/000004.log 
+2022/05/15-11:44:38.781 2904 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/05/15-11:44:38.781 2904 Manual compaction at level-1 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/05/15-11:48:28.689 2904 Level-0 table #8: started
+2022/05/15-11:48:28.692 2904 Level-0 table #8: 7224 bytes OK
+2022/05/15-11:48:28.693 2904 Delete type=0 #4
+2022/05/15-11:48:28.693 2904 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/05/15-11:48:28.693 2904 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x03\x01\x1f\x04\x03\x01\x03\x00N\x00E\x00W\x03\x00\x00\x00\x00\x00\x00L@\x03\xb8~2\xce\x90\x0cxB\x00\x03\x00\x00\x00\x00\x00\x00\x00@' @ 311 : 1
+2022/05/15-11:48:28.693 2904 Compacting 1@1 + 1@2 files
+2022/05/15-11:48:28.694 2904 Generated table #9@1: 40 keys, 2519 bytes
+2022/05/15-11:48:28.694 2904 Compacted 1@1 + 1@2 files => 2519 bytes
+2022/05/15-11:48:28.694 2904 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/05/15-11:48:28.695 2904 Delete type=2 #5
+2022/05/15-11:48:28.695 2904 Delete type=2 #8
+2022/05/15-11:48:28.695 2904 Manual compaction at level-1 from '\x00\x03\x01\x1f\x04\x03\x01\x03\x00N\x00E\x00W\x03\x00\x00\x00\x00\x00\x00L@\x03\xb8~2\xce\x90\x0cxB\x00\x03\x00\x00\x00\x00\x00\x00\x00@' @ 311 : 1 .. (end); will stop at (end)

@@ -3,6 +3,12 @@
 	"EngineAssociation": "5.0EA",
 	"Category": "",
 	"Description": "",
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true
+		}
+	],
 	"AdditionalPluginDirectories": [
 		"../../../../Downloads/AdvancedSessions-50/AdvancedSessions/AdvancedSessions"
 	]
